@@ -1,0 +1,9 @@
+sudo su - hdfs #usuario con provilegios creado cuando instalas hadoop
+hadoop fs -mkdir /user/vagrant
+hadoop fs -chown vagrant:vagrant /test/
+hadoop fs -chown vagrant:vagrant /user/vagrant
+exit
+logout
+hadoop fs -ls
+hadoop fs -mkdir test
+hadoop fs -ls
