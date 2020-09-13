@@ -1,4 +1,4 @@
-# Mi primer ambiente Big Data
+# Mi primer ambiente Big Data 🐘
 
 Este proyecto es para la comunidad latina, para que puedan crear ambientes Big Data de prueba para adentrarse más a estos paradigmas.
 
@@ -31,7 +31,7 @@ Este comando nos ayuda a acceder a las maquinas virtuales creadas.
 
 ### Pre-requisitos 📋
 
--Instalar Virtual Box que es el encargado consumir el recurso de nuestra maquina y asignar a los ambientes virtuales que queremos crear.
--Instalar Vagrant será la herramienta para crear y configurar los ambientes virtuales que se comunicara con virtual Box proporcionar los ambientes virtuales.
+-Instalar Virtual Box, que es el encargado consumir el recurso de nuestra maquina y asignarlo a los ambientes virtuales que queremos crear.
 
+-Instalar Vagrant, será la herramienta para crear y configurar los ambientes virtuales que se comunicaran con virtual Box con las características que necesitamos para este proyecto.
 
