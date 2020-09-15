@@ -7,3 +7,4 @@ logout
 hadoop fs -ls
 hadoop fs -mkdir test
 hadoop fs -ls
+hadoop fs -put /vagrant/inmubles.csv /user/vagrant/ejemplo.csv
